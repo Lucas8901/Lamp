@@ -13,7 +13,7 @@
 <h2 align="left">Segue uma pequena demonstração do projeto em funcionamento</h2>
 
   <div align="left">
-  <img src="https://github.com/Lucas8901/initial-page-portifolio/blob/main/img/gif/bandicam%202022-12-01%2016-26-38-137.gif"/>
+  <img src="https://github.com/Lucas8901/Lamp/blob/main/gif/bandicam%202022-12-05%2013-57-11-624%20(1).gif"/>
   </div>
 
 
